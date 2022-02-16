@@ -14,3 +14,5 @@
 - ⚡ Good Quote: "It is better to light one flamethrower than to curse the darkness" - Terry Pratchett
 
 If you are interested in contributing to any of my projects here, feel free and make an MR!
+
+I have a ~~bad~~ *great* habit of replacing accumulating `for` loops with `map/filter/reduce` implementations. You have been warned.
