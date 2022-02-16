@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello There
 
-<!--
-**alex0112/alex0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "After three days without programming, life becomes meaningless." 
+>
+>
+> ~ Geoffrey James, The Tao of Programming
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Hi I'm Alex! Here's a little bit about me:
+
+- 🔭 I’m currently working on [Aurum](github.com/alex0112/aurum)! (An API Wrapper for Coinbase in *Elixir*)
+- 🌱 I’m currently learning about [Genetic Programming](https://en.wikipedia.org/wiki/Genetic_programming) by working through [this fantastic book](https://pragprog.com/titles/smgaelixir/genetic-algorithms-in-elixir/).
+- 📫 How to reach me: `alarsen0112 at gmail dot com`
+- ⚡ Good Quote: "It is better to light one flamethrower than to curse the darkness" - Terry Pratchett
+
+If you are interested in contributing to any of my projects here, feel free and make an MR!
