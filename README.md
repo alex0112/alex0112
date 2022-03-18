@@ -1,10 +1,3 @@
-> "After three days without programming, life becomes meaningless." 
->
->
-> ~ Geoffrey James, The Tao of Programming
-
-</br>
-
 ### Hi I'm Alex! Here's a little bit about me:
 
 - 🔭 I’m currently working on [Aurum](https://github.com/alex0112/aurum)! (An API Wrapper for Coinbase in *Elixir*)
