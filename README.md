@@ -7,7 +7,7 @@
   - Email: `alarsen0112 at gmail dot com`
   - Matrix `@kingsfoil:matrix.kingsfoil.org`
 - 📕 Currently reading:
-  - Cryptonomicon by Neal Stephenson (among other things)
+  - Hegel: A short introduction by Peter Singer
 
 
 *Real stupidity beats Artificial Intelligence every time. -- Terry Pratchett*
