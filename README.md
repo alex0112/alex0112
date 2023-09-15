@@ -8,6 +8,7 @@
   - Email: `alex0112 at protonmail.com`
   - Matrix `@kingsfoil:matrix.kingsfoil.org`
   - Mastodon `@kingsfoil@fosstodon.org`
+  - Gitea `https://gitea.com/kingsfoil`
 - 📕 Currently reading:
   - A lot of things
 
