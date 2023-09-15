@@ -5,8 +5,9 @@
   - [Vigil](https://github.com/podium/vigil) (Disable introspection and prevent data exfiltration against Absinthe GraphQL APIs)
   - [Attercop](https://github.com/podium/attercop) (Command line tool to perform reconnaissance against GraphQL APIs)
 - 📫 How to reach me: 
-  - Email: `alarsen0112 at gmail dot com`
+  - Email: `alex0112 at protonmail.com`
   - Matrix `@kingsfoil:matrix.kingsfoil.org`
+  - Mastodon `@kingsfoil@fosstodon.org`
 - 📕 Currently reading:
   - A lot of things
 
