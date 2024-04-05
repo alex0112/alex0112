@@ -1,8 +1,8 @@
 ### Hi I'm Alex! Here's a little bit about me:
 
 - 🔭 Some projects I've worked on
-  - [prxs](https://github.com/alex0112/prxs) (A MITM tool for Unix, written in Rust)
-  - [Aurum](https://github.com/alex0112/aurum)! (An API Wrapper for Coinbase in *Elixir*)
+  - [prxs](https://github.com/alex0112/prxs) (A MITM tool for Unix, written in Rust!)
+  - [Aurum](https://github.com/alex0112/aurum) (An API Wrapper for Coinbase in *Elixir*)
   - [Vigil](https://github.com/podium/vigil) (Disable introspection and prevent data exfiltration against Absinthe GraphQL APIs)
   - [Attercop](https://github.com/podium/attercop) (Command line tool to perform reconnaissance against GraphQL APIs)
 - 📫 How to reach me: 
