@@ -1,5 +1,7 @@
 ### Hi I'm Alex! Here's a little bit about me:
 
+Most of my time is focused on my computer engineering degree. In rare moments of spare time I'll work on projects here.
+
 - 🔭 Some projects I've worked on
   - [prxs](https://github.com/alex0112/prxs) (A MITM tool for Unix, written in Rust!)
   - [Aurum](https://github.com/alex0112/aurum) (An API Wrapper for Coinbase in *Elixir*)
