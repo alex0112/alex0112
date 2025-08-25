@@ -3,6 +3,7 @@
 Most of my time is focused on my computer engineering degree. In rare moments of spare time I'll work on projects here.
 
 - 🔭 Some projects I've worked on
+  - [twine](https://github.com/alex0112/twine) (fun and simple rust cli tool to quickly fetch gifs from getyarn.org)
   - [yggdrasil](https://github.com/alex0112/yggdrasil) (An old, now archived, react/rails application to spider wikipedia)
   - [music page](https://silence-between-the-notes.surge.sh/) (A small proof of concept I hacked together in a few hours for a friend, uses the [Vexflow library](https://www.vexflow.com/))
   - [prxs](https://github.com/alex0112/prxs) (A MITM tool for Unix, written in Rust!)
